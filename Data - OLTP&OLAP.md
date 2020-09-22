@@ -1,6 +1,6 @@
 # Data - OLTP/OLAP
 
-# OLTP(On-Line Transaction Processing)
+## OLTP(On-Line Transaction Processing)
 
 ***다수의 이용자가 실시간으로 데이터를 갱신, 조회하는 경우 트랜잭션 단위로 작업을 처리하는 방식.***
 
@@ -20,7 +20,7 @@ ex) A의 통장에서 B의 통장으로 5000원 이체할 때
 
 SELECT, INSERT, DELETE, UPDATE 주로 사용
 
-# OLAP(On-Line Analytical Processing)
+## OLAP(On-Line Analytical Processing)
 
 ***대용량 데이터를 빠르게 처리해 다양한 관점에서  추출, 분석할 수 있도록 지원하는 방식.***
 
