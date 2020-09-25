@@ -72,4 +72,4 @@ application에 필요한 형식으로 데이터 저장 → 가져오는 속도 �
 
 수평확장: 더 많은 서버 추가, DB가 분산되는 것. 하나의 DB에서 작동하지만 여러 host에서 작동
 
-![img6.png](./img6/.png)
+![img6.png](./img/img6.png)
