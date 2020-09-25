@@ -6,6 +6,7 @@
 
 ![img4.png](./img/img4.png)
 
+
 ## SQL
 
 Structured Query Language의 약자로 SQL 사용시 RDBMS에서 data를 저장 수정 삭제 및 검색할 수 있음
@@ -33,6 +34,7 @@ application의 여러 부분에서 관련 데이터가 비교적 자주 변경�
 JOIN문이 많은 매우 복잡한 쿼리가 만들어 질 가능성
 
 보통 수직확장만 가능(수평 확장 어려움)
+
 
 ## NoSQL
 
